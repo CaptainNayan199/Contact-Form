@@ -20,6 +20,6 @@ You can easily customize the form by modifying the CSS file to match your websit
 
 ### 💬 Support
 
-If you encounter any issues or have any questions, please don't hesitate to reach out to us at nayanpathak233199@gmail.com & santoshvandari1@gmail.com.
+If you encounter any issues or have any questions, please don't hesitate to reach out to us at nayanpathak233199@gmail.com & santoshvandari100@gmail.com.
 
 We hope our new contact form makes it easier for you to connect with your website visitors!
