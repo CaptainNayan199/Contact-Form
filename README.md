@@ -14,8 +14,8 @@ Thank you for taking your time to check out our new contact form. This is a simp
 
 ### 📝 Usage
 
-Fill in the form with your Name, Email Address, and Message.
-Click the "Submit" button to send your message.
+- Fill in the form with your Name, Email Address, and Message.
+- Click the "Submit" button to send your message.
 
 ### 🎨 Customization
 
