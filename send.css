@@ -1,0 +1,71 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+    background-color: #1e2833;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: "Poppins", sans-serif;
+  }
+  div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    background: #ffffffa2;
+    border: 1px solid rgb(175, 160, 160);
+    height: 300px;
+    width: 600px;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px #0000003b;
+  }
+  #mssg {
+    color: #00ff00;
+  }
+  #failure {
+    color: #ff0000;
+  }
+  .main{
+    color: #fff;
+  }
+  #para {
+    color: aqua;
+      border: 5px solid transparent;
+      border-radius: 50%;
+      padding: 5px;
+      font-size: 25px;
+      font-weight: bold;
+      color: #22ffff;
+      animation: rotate 1.5s linear infinite;
+  }
+  @keyframes rotate {
+      0% {
+        border-left: 5px solid #1abc9c;
+      }
+      25% {
+        border-left: 5px solid #1abc9c;
+        border-bottom: 5px solid #1abc9c;
+      }
+      50% {
+        border-left: 5px solid #1abc9c;
+        border-bottom: 5px solid #1abc9c;
+        border-right: 5px solid #1abc9c;
+      }
+      75% {
+        border-left: 5px solid #1abc9c;
+        border-bottom: 5px solid #1abc9c;
+        border-right: 5px solid #1abc9c;
+        border-top: 5px solid #1abc9c;
+      }
+    }
+#contact{
+    display: none;
+}
