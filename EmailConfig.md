@@ -8,6 +8,5 @@
 <li> Search for App Password and Visit it.</li>
 <li> Select App (Custom Name) and Mentioned Any Name (Mail, Website Mail etc).</li>
 <li> Hit on Generate.</li>
-<li> It will provide Your App Password. Just Copy it and Paste in the Password variable of mail.php</li>
-
+<li> It will provide Your App Password. Just Copy it and Paste in the Password variable of mail.php</li><br/><br/>
 <p><b>If you get any issue while setting it, then please mentioned in issue section</b></p>
