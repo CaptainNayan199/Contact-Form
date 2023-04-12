@@ -1,7 +1,7 @@
 # Setting Gmail and App Password
 <p>In Mail.php file we have mentioned about Gmail and App Password From Where You can send Email to the Mentioned Email Address. </p>
 <p>Follow These Mentioned Steps to Setup the Gmail and App Password </p>
-- Login the Gmail in Your Browser.
+<li>Login the Gmail in Your Browser.</li>
 - Go to Manage Your Account.
 - Visit to the Security tab of Your Gmail.
 - Setup Two Step Verification in Your Gmail.
