@@ -17,17 +17,20 @@
      require './includes/Exception.php';
      require './includes/SMTP.php';
      if(isset($_POST["submit-btn"])){
-         // data info
         echo "<div>";
+        //Receiving the Data from Post Request
         $name=trim($_POST["name"]);
         $formemail=trim($_POST["email"]);
         $contact=trim($_POST["phone"]);
+        //Defining Email and Password
         $email=""; //Specify the Email Address form where you want to get the contact form data.
         $password=""; //Mentioned the App password that is generated from gmail (Checkout the emailconfig.md for more info)
         $subject=trim($_POST["subject"]);
+        //Format to get Mail
         $message="Form Submitted By <b>".$name."</b><br/><b>Contact Number:</b> ".$contact."<br/><b>Email:</b>".$formemail."<br/><h2>Message:</h2><br/>".trim($_POST["message"]); //Design Your Own Format for getting the Mail. We have created the simple format for mail.
         $to=""; //Enter the Gmail Where you want to get mail from contact form
-        // Sending mail config
+        
+        // Mail Sending Configuration
         $mail=new PHPMailer(true);
         $mail->isSMTP();
         $mail->Host="smtp.gmail.com";
