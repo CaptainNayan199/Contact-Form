@@ -21,9 +21,17 @@ Thank you for taking your time to check out our new contact form. This is a simp
 
 You can easily customize the form by modifying the every file to match your website's design.
 
+### 🤝 Contributing
+If you'd like to contribute to this project, please follow these steps:
+- Fork this repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and commit them with descriptive messages.
+- Push your branch to your forked repository.
+- Open a pull request to merge your changes back into the main repository.
+
 ### 💬 Support
 
-If you encounter any issues or have any questions, please don't hesitate to mentioned it in issue section as well as reach out to us at nayanpathak233199@gmail.com & santoshvandari100@gmail.com.
+If you encounter any issues or have any questions, please don't hesitate to mentioned it in issue section as well as reach out to us at nayanpathak233199@gmail.com & info@bhandari-santosh.com.np.
 
 We hope our Contact Form makes it easier for you to connect with your website visitors!
 Enjoy Coding.
