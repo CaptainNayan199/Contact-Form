@@ -1,4 +1,4 @@
-//For send.php(send) Page
+//For Mail.php(Mail) Page
 let timer=4;
 let redirect=setInterval(() => {
     if(timer==0){
@@ -8,7 +8,6 @@ let redirect=setInterval(() => {
     timer--;
 }, 1000);
 function stopCounter(){
+    clearInterval(redirect); 
     document.getElementById("contact").click();
-    clearInterval(redirect);
-    
 }

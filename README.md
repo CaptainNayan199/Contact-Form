@@ -31,7 +31,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 ### 💬 Support
 
-If you encounter any issues or have any questions, please don't hesitate to mentioned it in issue section as well as reach out to us at nayanpathak233199@gmail.com & info@bhandari-santosh.com.np.
+If you encounter any issues or have any questions, please don't hesitate to mentioned it in issue section.
 
-We hope our Contact Form makes it easier for you to connect with your website visitors!
+We hope our Contact Form makes it easier for you to connect with your website visitors! <br/>
 Enjoy Coding.
