@@ -8,6 +8,6 @@ let redirect=setInterval(() => {
     timer--;
 }, 1000);
 function stopCounter(){
-    document.getElementById("contact").click();
     clearInterval(redirect); 
+    document.getElementById("contact").click();
 }
