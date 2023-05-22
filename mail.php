@@ -47,7 +47,7 @@
         if($mail->send()){
             echo "<div><h2 id='mssg'>Message sent Successfully! Thank you for the Feedback.🙂🙂🙂</h2>";
         }else{
-            echo "<div><h2 id='failure'>Something Went Worng😔😔😔!! Please Try Again</h2>";
+            echo "<div><h2 id='failure'>Something Went Wrong😔😔😔!! Please Try Again</h2>";
         }
         $mail->SMTPClose();
     }else{
